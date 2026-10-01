@@ -1,3 +1,4 @@
+- solved by @cooku222
 netcat 접속 시 N, e, c 값을 준다.
 ```
 Hello! Can you recover the hidden message?
